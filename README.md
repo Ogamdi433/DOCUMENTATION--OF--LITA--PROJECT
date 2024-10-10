@@ -14,5 +14,5 @@ the primary sources of data used for this project are;  sales records, customer 
 - PivotCharts for data Visualization
 - Github for portfolio building
 
-- 
+  
 
