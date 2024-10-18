@@ -20,22 +20,18 @@ the primary sources of data used for this project are;  sales records, customer 
     1. identify missing values (e.g, NULL, blank, NA).
     2. decide on replacement stategies (e.g,  mean, median, imputation).
     3. replace missing values
-   
-    - data normalization
-      1. standardize date formats
-      2. convert categorical variables into numerical variables
-
-      - error detection and correction
-        1. identify errors
-        2. correct errors manually or using algorithms
-        3. verify corrections
-
-        - data transformation
-          1. aggregate data (e.g, group by, pivot)
-          2. merge datasets
-          3. transpose data
-         
-          -data validation
+ - data normalization
+    1. standardize date formats
+    2. convert categorical variables into numerical variables
+ - error detection and correction
+    1. identify errors
+    2. correct errors manually or using algorithms
+    3. verify corrections
+ - data transformation
+    1. aggregate data (e.g, group by, pivot)
+    2. merge datasets
+    3. transpose data
+  -data validation
     
 
   
