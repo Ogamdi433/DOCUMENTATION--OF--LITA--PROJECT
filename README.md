@@ -51,7 +51,8 @@ in preparation of data,
 
  The table below shows my data cleaning using power Bi with all the applied steps i used.
  
-  ![data cleaning table](https://github.com/user-attachments/assets/c97e9a97-5924-4b4a-8d1f-d312dd72284d)
+  
+  ![Screenshot (21)](https://github.com/user-attachments/assets/828d3696-6b13-4089-9bc5-e72844a15219)
 
   Using Excel functions such as SUM, AVERAGE, COUNTA, MAX, MIN, LARGE AND SMALL funtions to summarise my data.
   below is the table summarised.
