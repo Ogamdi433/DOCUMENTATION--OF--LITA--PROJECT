@@ -8,7 +8,7 @@ This analysis project aims at outlining the sales activity and the impact it has
 the primary sources of data used for this project are;  sales records, customer feedback, and operational metrics. with some external sources such as market research reports and the industry benchmarks.
 
 ### Tools used
-- Microsoft Excel [download here](https://www.microsoft.com)
+- Microsoft Excel [download here](https://www.microsoft.com)  and Power Bi. [download here](https:www.powerbi.microsoft.com/en-us/desktop).
   1.  for Data cleaning
   2.  for Analysis
 - PivotCharts for data Visualization
@@ -49,11 +49,11 @@ in preparation of data,
 - clean and format data. i.e removing duplicates, handling missing files etc.
 - and finally, organise your data into tables or pivot tables.
 
+ The table below shows my data cleaning using power Bi with all the applied steps i used.
+ 
+  ![data cleaning table](https://github.com/user-attachments/assets/c97e9a97-5924-4b4a-8d1f-d312dd72284d)
+
   
-Pivot_Tables_File[1].xlsx
-
-
-
 
     
 
