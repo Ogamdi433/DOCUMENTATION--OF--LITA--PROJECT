@@ -45,9 +45,11 @@ EDA involves examining and summarizing data to understand patterns, trends and c
 As a data analyst, the first thing that should be in mind after importing your data is to clean the data, prepare the data and summarize the data.
 this is where we do an explicit explanation of our data.
 in preparation of data, 
-- you imported data
+- you import data
 - clean and format data. i.e removing duplicates, handling missing files etc.
 - and finally, organise your data into tables or pivot tables.
+
+  
 
 
 
