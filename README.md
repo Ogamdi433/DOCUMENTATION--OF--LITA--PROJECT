@@ -53,7 +53,37 @@ in preparation of data,
  
   ![data cleaning table](https://github.com/user-attachments/assets/c97e9a97-5924-4b4a-8d1f-d312dd72284d)
 
-  
+  Using Excel functions such as SUM, AVERAGE, COUNTA, MAX, MIN, LARGE AND SMALL funtions to summarise my data.
+  below is the table summarised.
+   
+![summary using excel functions](https://github.com/user-attachments/assets/46faac1b-a0d4-4f94-8b42-2b448f793db5)
+
+Hence, with microsot Excel i was able to summarise my data by calculating the;
+  - GRAND TOTAL of the staff salary
+  - AVERAGE salary
+  - HIGHEST alary
+  - LOWEST salary
+  - TOTAL number of staff
+  - FOURTH highest salary
+  - THIRD lowest salary.
+
+     According to my table above, the fuctions for the above mentioned problems are;
+
+     GRAND TOTAL =SUM(D8:D27)
+    AVAERAGE =AVERAGE(D8:D27)
+    HIGHEST =MAX(D8:D27)
+    LOWEST =MIN(D8:D27)
+    TOTAL STAFF =COUNTA(B8:B27)
+    FOURTH HIGHEST =LARGE(D8:D27,4)
+    THIRD LOWEST  =SMALL(D8:D27,3).
+       
+    In conclusion, the formula varies according to the combination of your column and rows.
+    however, my analysis revealed;
+    1. the highest salary earners
+    2. the lowest salary earners
+    3. the top 4 and bottom 3 salary earners
+    4. and the total no of staff.
+    
 
     
 
