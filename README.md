@@ -56,7 +56,10 @@ in preparation of data,
 
   Using Excel functions such as SUM, AVERAGE, COUNTA, MAX, MIN, LARGE AND SMALL funtions to summarise my data.
   below is the table summarised.
+
   
+  ![summary using excel functions](https://github.com/user-attachments/assets/bcd96cf3-b426-4699-96b6-f1167e26940a)
+
      Hence, with Microsoft Excel i was able to summarize my data by calculating the;
   - GRAND TOTAL of the staff salary
   - AVERAGE salary
