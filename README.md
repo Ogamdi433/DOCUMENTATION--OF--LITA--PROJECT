@@ -1,6 +1,6 @@
 # DOCUMENTATION_OF_LITA_PROJECT
 
-### project title: Sales Analysis Report
+### project title: Salary disparities across Companies: "An In-Dept Analysis of compensation Trends"
 
 This analysis project aims at outlining the sales activity and the impact it has brought to the organisation over a specific time. The details can vary, but typically include metrics about leads, new accounts won, revenue generated, and overall sales performance. this will give us insight about the lows and highs of the sales generated and how improvement can be made on the sales.
 
@@ -33,7 +33,7 @@ the primary sources of data used for this project are;  sales records, customer 
   3. transpose data
 -data validation
 
-### Expolatory data analysis (EDA)
+### Exploratory data analysis (EDA)
 EDA involves examining and summarizing data to understand patterns, trends and corrections. here is a comprehensive EDA checklist.
  -  what are the top-selling products/category
  -  which regions/territories generate most most sales
@@ -49,17 +49,15 @@ in preparation of data,
 - clean and format data. i.e removing duplicates, handling missing files etc.
 - and finally, organise your data into tables or pivot tables.
 
- The table below shows my data cleaning using power Bi with all the applied steps i used.
+ The table below shows my data cleaning using power Bi with all the applied steps used.
  
   
-  ![Screenshot (21)](https://github.com/user-attachments/assets/828d3696-6b13-4089-9bc5-e72844a15219)
+  ![power bi data cleaning](https://github.com/user-attachments/assets/eee3b840-6865-484e-8097-980fe861d267)
 
   Using Excel functions such as SUM, AVERAGE, COUNTA, MAX, MIN, LARGE AND SMALL funtions to summarise my data.
   below is the table summarised.
-   
-![summary using excel functions](https://github.com/user-attachments/assets/46faac1b-a0d4-4f94-8b42-2b448f793db5)
-
-Hence, with microsot Excel i was able to summarise my data by calculating the;
+  
+     Hence, with Microsoft Excel i was able to summarize my data by calculating the;
   - GRAND TOTAL of the staff salary
   - AVERAGE salary
   - HIGHEST alary
@@ -84,9 +82,32 @@ Hence, with microsot Excel i was able to summarise my data by calculating the;
     2. the lowest salary earners
     3. the top 4 and bottom 3 salary earners
     4. and the total no of staff.
-    
+
+
+    ### Data Visualization
+    This is the process of creating graphical representation of data to better understand, analize and communicate insights. it helps transform complex data into intuitive, interactive and visually appealing formats.. it also simplifies complex data and enhances decision making.
+    below graphs shows the visualization of all my data.
 
     
+![pivot chart](https://github.com/user-attachments/assets/c3bda84c-17ce-44d1-adad-81614de28d4a)
 
-  
 
+the chart above shows 5 companies with the lowest salary, explaining it in the ascending order.
+
+
+![pie chat](https://github.com/user-attachments/assets/6f1bffa8-77a4-480b-a376-b999356495ce)
+
+this is a pie chart showing 10 companies with the highest salary, explaining it in the ascending order.
+
+
+![pie chart 2](https://github.com/user-attachments/assets/9f5635d6-0d29-41f4-9e30-1fc235c2ee9b)
+
+This chart above shows the total number of all the staff in the company with their salary percentage.
+
+In conclusion data visualization ensures clarity, simplicity annd accessibility.
+In all, my analysis reveals significant salary disparities across the companies with variations driven by location and company size.
+by this analysis the company will be able to avoid future loss by;
+
+- enhancing talent attraction and retention.
+- foster fairer compensation practices. and
+- improve employee satisfaction.
